@@ -19,8 +19,7 @@ As a junior specialist, I am highly motivated and **completely ready to start wi
 * **Version Control:** Git
 
 ---
-📫 **How to reach me:** Feel free to connect with me via LinkedIn links in my profile!
-
----
 ### 📬 Contact Me
+* **LinkedIn:** Feel free to connect with me via [LinkedIn Profile](https://www.linkedin.com/in/natallia-tsikhamirava-302697118/)
 * **Telegram & WhatsApp:** `@NatalliaTsikhamirava`
+
