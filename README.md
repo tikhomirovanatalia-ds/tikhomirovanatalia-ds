@@ -20,3 +20,8 @@ As a junior specialist, I am highly motivated and **completely ready to start wi
 
 ---
 📫 **How to reach me:** Feel free to connect with me via LinkedIn or Telegram links in my profile!
+---
+### 📬 Contact Me
+* **Telegram:** [👉 Message me on Telegram](@NatalliaTsikhamirava)
+* **WhatsApp:** [👉 Message me on WhatsApp](@NatalliaTsikhamirava)
+* **LinkedIn:** Connect with me via the social links on my profile!
