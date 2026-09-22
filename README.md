@@ -13,8 +13,10 @@ I am an **aspiring Data Scientist** with a strong foundation in **Python, Machin
 As a junior specialist, I am highly motivated and **completely ready to start with simple, routine, and structured tasks**. I look forward to ensuring they are executed flawlessly while gradually taking on more complex data science challenges as my experience grows.
 
 ### 🛠️ Tech Stack & Tools
-* **Languages:** Python
+* **Languages & Databases:** Python, SQL
 * **Data Science & ML:** Machine Learning, Neural Networks
+* **Data Analysis & Visualization:** Power BI, Excel
+* **Version Control:** Git
 
 ---
 📫 **How to reach me:** Feel free to connect with me via LinkedIn or Telegram links in my profile!
